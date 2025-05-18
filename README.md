@@ -1,2 +1,2 @@
 # Portfolio-Template
-This is the sample Portfolio Template for Freshers, Designed using HTML, CSS and JavaScript
+This is my New Portfolio Template, Designed using HTML, CSS and JavaScript
